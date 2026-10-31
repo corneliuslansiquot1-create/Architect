@@ -1,0 +1,12 @@
+# Unreal generated folders (rebuilt automatically, never commit)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
